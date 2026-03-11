@@ -1,7 +1,7 @@
 const bedrock = require('bedrock-protocol');
 
 const HOST = 'test_12.aternos.me';
-const PORT = 28603;
+const PORT = 16321;
 
 let bot = null;
 let afkInterval = null;
@@ -16,7 +16,7 @@ function connect() {
   bot = bedrock.createClient({
     host: HOST,
     port: PORT,
-    username: 'MobileBot',
+    username: 'Afk Bot',
     offline: true
   });
 
