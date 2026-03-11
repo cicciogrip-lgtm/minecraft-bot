@@ -1,6 +1,6 @@
 const bedrock = require('bedrock-protocol');
 
-const HOST = 'Valkyrie1.aternos.me';
+const HOST = 'test_12.aternos.me';
 const PORT = 28603;
 
 let bot = null;
