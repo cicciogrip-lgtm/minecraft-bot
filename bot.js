@@ -1,7 +1,7 @@
 const bedrock = require('bedrock-protocol');
 
 const HOST = 'Bergocraft.aternos.me';
-const PORT = 28603;
+const PORT = 11968;
 const USERNAME = 'MobileBot';
 
 let bot = null;
